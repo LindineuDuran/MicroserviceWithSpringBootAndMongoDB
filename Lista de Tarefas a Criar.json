@@ -1,0 +1,30 @@
+[
+    {
+        "id": "61d9fd9d28a54a042b3c5911",
+        "descricao": "Ligar para faculdade",
+        "dataCriacao": "2022-01-13",
+        "dataConclusao": null,
+        "statusTarefa": "EM_ANDAMENTO"
+    },
+    {
+        "id": "61da01c728a54a042b3c5913",
+        "descricao": "Enviar e-mail para o banco",
+        "dataCriacao": "2022-01-06",
+        "dataConclusao": null,
+        "statusTarefa": "EM_ANDAMENTO"
+    },
+    {
+        "id": "61da01f728a54a042b3c5914",
+        "descricao": "Agendar consulta",
+        "dataCriacao": "2022-01-15",
+        "dataConclusao": null,
+        "statusTarefa": "A_FAZER"
+    },
+    {
+        "id": "61da026228a54a042b3c5915",
+        "descricao": "Enviar WhasApp para Ana",
+        "dataCriacao": "2022-01-05",
+        "dataConclusao": "2022-01-08",
+        "statusTarefa": "CONCLUIDA"
+    }
+]
